@@ -1,0 +1,42 @@
+.side-menu{
+
+	display: inline;
+	float: right;
+	padding: 50px;
+
+}
+
+.smenu li{
+
+	display: inline-block;
+	font-size: 20px;
+	padding: 20px;
+}	
+
+.banner{
+	position: relative;
+	display: inline;
+}
+
+
+
+.setwidth {
+    max-width: 1150px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section3-tabs{
+
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.section3-heading{
+
+	padding: 20px 10px;
+}
+.section4-tabs{
+
+	padding: 20px 10px;
+}
